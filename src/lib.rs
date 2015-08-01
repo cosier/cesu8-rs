@@ -84,7 +84,7 @@
 
 #![warn(missing_docs)]
 
-#![feature(collections)]
+#![feature(str_utf16)]
 
 use std::borrow::Cow;
 use std::error::Error;
